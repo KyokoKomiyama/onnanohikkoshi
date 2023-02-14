@@ -22,3 +22,5 @@ nyantech　こみは待っている
 nyantech　てをうごかす
 
 nyantech　すすむ
+
+nyantech　すすんでる
