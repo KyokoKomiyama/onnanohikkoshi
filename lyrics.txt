@@ -24,3 +24,5 @@ nyantech　てをうごかす
 nyantech　すすむ
 
 nyantech　すすんでる
+
+nyantech　すすんでる?
